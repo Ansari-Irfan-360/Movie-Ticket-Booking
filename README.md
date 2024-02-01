@@ -1,1 +1,1 @@
-This Project is created on Reactjs and uses api.tvmaze.com for fetching data of Movies. All there movies from this API is not shown because it will take alot of time to fetch that data.
+This Project is created on Reactjs and uses api.tvmaze.com for fetching data of Movies. All the movies from this API is not shown because it will take alot of time to fetch that data. Instead movies starting with 'all' is only fetched.
